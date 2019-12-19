@@ -1,3 +1,6 @@
+# Works with the following version ruby-2.3.3
+# source https://code.tutsplus.com/tutorials/singing-with-sinatra-the-recall-app--net-19128
+
 require 'sinatra'
 require 'data_mapper'
 
